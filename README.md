@@ -1,3 +1,3 @@
 ## Java
 
-1. [ ] - Hello World
+1. [X] - Hello World

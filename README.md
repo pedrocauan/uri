@@ -1,2 +1,2 @@
 # Ruby
-## 1. [ ] - Hello World
+1. [x] 1 - Hello World

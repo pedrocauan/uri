@@ -1,3 +1,5 @@
-## Javascript
+## Java 
 
-1. [ ] - Hello world
+1. [X] - Hello World
+2. [X] - Extremamente Básico
+
